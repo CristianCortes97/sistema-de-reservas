@@ -1,0 +1,11 @@
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\bin\Debug\net5.0\ApiRest.Services.deps.json
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\bin\Debug\net5.0\ApiRest.Services.dll
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\bin\Debug\net5.0\ApiRest.Services.pdb
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.AssemblyInfo.cs
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.dll
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\obj\Debug\net5.0\refint\ApiRest.Services.dll
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\obj\Debug\net5.0\ApiRest.Services.pdb
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Services\obj\Debug\net5.0\ref\ApiRest.Services.dll

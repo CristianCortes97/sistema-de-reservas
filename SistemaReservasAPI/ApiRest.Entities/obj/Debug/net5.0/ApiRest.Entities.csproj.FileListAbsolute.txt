@@ -1,0 +1,15 @@
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.deps.json
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.runtimeconfig.json
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.runtimeconfig.dev.json
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.dll
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\bin\Debug\net5.0\ApiRest.Entities.pdb
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.AssemblyInfo.cs
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.dll
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\obj\Debug\net5.0\refint\ApiRest.Entities.dll
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.pdb
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\obj\Debug\net5.0\ApiRest.Entities.genruntimeconfig.cache
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Entities\obj\Debug\net5.0\ref\ApiRest.Entities.dll

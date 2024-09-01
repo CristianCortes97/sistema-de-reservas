@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD3328A-8579-426D-BA9A-64B33D892314}|ApiRest.Repository\\ApiRest.Repository.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\apirest.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD3328A-8579-426D-BA9A-64B33D892314}|ApiRest.Repository\\ApiRest.Repository.csproj|solutionrelative:apirest.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BAB0C1-0BD6-4DD3-B9E6-C47B40A25243}|ApiRest.Application\\ApiRest.Application.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\apirest.application\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BAB0C1-0BD6-4DD3-B9E6-C47B40A25243}|ApiRest.Application\\ApiRest.Application.csproj|solutionrelative:apirest.application\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\sistemareservasapi\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|solutionrelative:sistemareservasapi\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD456C5-7F06-4DAA-9F9F-000800A78DF6}|ApiRest.Entities\\ApiRest.Entities.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\apirest.entities\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD456C5-7F06-4DAA-9F9F-000800A78DF6}|ApiRest.Entities\\ApiRest.Entities.csproj|solutionrelative:apirest.entities\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\sistemareservasapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|solutionrelative:sistemareservasapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\sistemareservasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|solutionrelative:sistemareservasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\sistemareservasapi\\dto\\reservadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|solutionrelative:sistemareservasapi\\dto\\reservadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\sistemareservasapi\\dto\\serviciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|solutionrelative:sistemareservasapi\\dto\\serviciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\sistemareservasapi\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D512F3F-7D43-48A6-931F-08544551D2B3}|SistemaReservasAPI\\SistemaReservasAPI.csproj|solutionrelative:sistemareservasapi\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EEB2C6D-3DCA-45B9-889B-6A278CEAA41E}|ApiRest.Abstractions\\ApiRest.Abstractions.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\apirest.abstractions\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EEB2C6D-3DCA-45B9-889B-6A278CEAA41E}|ApiRest.Abstractions\\ApiRest.Abstractions.csproj|solutionrelative:apirest.abstractions\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD456C5-7F06-4DAA-9F9F-000800A78DF6}|ApiRest.Entities\\ApiRest.Entities.csproj|c:\\users\\laptop\\source\\repos\\sistemareservasapi\\apirest.entities\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD456C5-7F06-4DAA-9F9F-000800A78DF6}|ApiRest.Entities\\ApiRest.Entities.csproj|solutionrelative:apirest.entities\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\DTO\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "SistemaReservasAPI\\DTO\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\DTO\\ClienteDTO.cs",
+              "RelativeToolTip": "SistemaReservasAPI\\DTO\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:27:41.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\DTO\\ReservaDTO.cs",
+              "RelativeDocumentMoniker": "SistemaReservasAPI\\DTO\\ReservaDTO.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\DTO\\ReservaDTO.cs",
+              "RelativeToolTip": "SistemaReservasAPI\\DTO\\ReservaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:27:14.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ApiRest.Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Repository\\Repository.cs",
+              "RelativeToolTip": "ApiRest.Repository\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:30:33.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "SistemaReservasAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\Startup.cs",
+              "RelativeToolTip": "SistemaReservasAPI\\Startup.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:23:22.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Application\\Application.cs",
+              "RelativeDocumentMoniker": "ApiRest.Application\\Application.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Application\\Application.cs",
+              "RelativeToolTip": "ApiRest.Application\\Application.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA4wBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:18:26.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "SistemaReservasAPI\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "SistemaReservasAPI\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:50:42.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaReservasAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\Program.cs",
+              "RelativeToolTip": "SistemaReservasAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:14:24.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServicioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\DTO\\ServicioDTO.cs",
+              "RelativeDocumentMoniker": "SistemaReservasAPI\\DTO\\ServicioDTO.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\DTO\\ServicioDTO.cs",
+              "RelativeToolTip": "SistemaReservasAPI\\DTO\\ServicioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T00:28:25.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ApiRest.Entities\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\Models\\Cliente.cs",
+              "RelativeToolTip": "ApiRest.Entities\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T23:52:14.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Abstractions\\ICrud.cs",
+              "RelativeDocumentMoniker": "ApiRest.Abstractions\\ICrud.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Abstractions\\ICrud.cs",
+              "RelativeToolTip": "ApiRest.Abstractions\\ICrud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:18:25.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "ApiRest.Entities\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\Models\\Reserva.cs",
+              "RelativeToolTip": "ApiRest.Entities\\Models\\Reserva.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:12:18.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

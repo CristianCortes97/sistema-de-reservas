@@ -1,0 +1,11 @@
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\bin\Debug\net5.0\ApiRest.Abstractions.deps.json
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\bin\Debug\net5.0\ApiRest.Abstractions.dll
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\bin\Debug\net5.0\ApiRest.Abstractions.pdb
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.AssemblyInfo.cs
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.dll
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\obj\Debug\net5.0\refint\ApiRest.Abstractions.dll
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\obj\Debug\net5.0\ApiRest.Abstractions.pdb
+C:\Users\LAPTOP\source\repos\SistemaReservasAPI\ApiRest.Abstractions\obj\Debug\net5.0\ref\ApiRest.Abstractions.dll

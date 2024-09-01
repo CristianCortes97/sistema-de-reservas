@@ -1,0 +1,503 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\SistemaReservasAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj",
+        "projectName": "ApiRest.Abstractions",
+        "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Application\\ApiRest.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Application\\ApiRest.Application.csproj",
+        "projectName": "ApiRest.Application",
+        "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Application\\ApiRest.Application.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj"
+              },
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj"
+              },
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Repository\\ApiRest.Repository.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Repository\\ApiRest.Repository.csproj"
+              },
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.DataAccess\\ApiRest.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.DataAccess\\ApiRest.DataAccess.csproj",
+        "projectName": "ApiRest.DataAccess",
+        "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.DataAccess\\ApiRest.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj"
+              },
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj",
+        "projectName": "ApiRest.Entities",
+        "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Repository\\ApiRest.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Repository\\ApiRest.Repository.csproj",
+        "projectName": "ApiRest.Repository",
+        "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Repository\\ApiRest.Repository.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Abstractions\\ApiRest.Abstractions.csproj"
+              },
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.DataAccess\\ApiRest.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.DataAccess\\ApiRest.DataAccess.csproj"
+              },
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj"
+              },
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj",
+        "projectName": "ApiRest.Services",
+        "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\SistemaReservasAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\SistemaReservasAPI.csproj",
+        "projectName": "SistemaReservasAPI",
+        "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\SistemaReservasAPI.csproj",
+        "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\SistemaReservasAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Application\\ApiRest.Application.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Application\\ApiRest.Application.csproj"
+              },
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Entities\\ApiRest.Entities.csproj"
+              },
+              "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj": {
+                "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\SistemaReservasAPI\\ApiRest.Services\\ApiRest.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
